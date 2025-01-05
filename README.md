@@ -1,4 +1,4 @@
-# Snay_reads_Lips
+# Snay_reads_Lips (Lip Reading Model)
 
 ## Summary
 
